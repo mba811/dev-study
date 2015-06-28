@@ -4,11 +4,11 @@ Markdown 是一门作者非常喜欢使用的写作语言。关于它，[维基�
 
 Markdown 的具体语法大家可以通过[相关声明网站](http://markdown.tw/)查看得知，笔者也就不再累述。本文的主要目的是向大家推荐几款不错的 Markdown 编辑器，它们各有优点、也各有缺点，但基本都为人熟知、受众较广：[Mou](http://25.io/mou/)、[Byword](http://bywordapp.com/)、[Erato](https://itunes.apple.com/us/app/erato-markdown-text-editor/id658913051?mt=12)。
 
-![](http://7q5cfr.com1.z0.glb.clouddn.com/@/Markdown/md1.png
+![](http://7q5cfr.com1.z0.glb.clouddn.com/@/Markdown/md1.png)
 
 [Mou](http://www.waerfa.com/mow-the-perfect-markdown-editor) 在国内应该是使用者最多的免费 Markdown 编辑器了，有意思的是经过了这么长时间的公开下载，它一直都处于「Beta 测试」阶段，且就版本号来看离 1.0 正式版的「上架」还有些时间，不过随着时间的推移，用户们似乎也渐渐淡忘了这件事，这里就不提了。
 
-![](http://7q5cfr.com1.z0.glb.clouddn.com/@/Markdown/md2.png
+![](http://7q5cfr.com1.z0.glb.clouddn.com/@/Markdown/md2.png)
 
 [Mou](http://25.io/mou/) 能吸引大量用户的主要功劳肯定离不开它的 **Live Preview** 实时预览和 **Sync Scroll** 自动滚屏功能，简单地说：左边写、右边预览，且随写随预览，自动同步视图。但在经过长时间的体验后，几乎所有支持 **Sync Scroll** 功能的 Markdown 编辑器，在当图片尺寸过大的时候，都不能完美地解决输入区与预览区的进度跟随（尤其是当图片数量过多的时候），因此特别影响用户体验。
 
@@ -18,11 +18,11 @@ Markdown 的具体语法大家可以通过[相关声明网站](http://markdown.t
 
 * * *
 
-![](http://7q5cfr.com1.z0.glb.clouddn.com/@/Markdown/md3.png
+![](http://7q5cfr.com1.z0.glb.clouddn.com/@/Markdown/md3.png)
 
 由于标准的 Markdown 语法格式不久前刚刚正式发布，很多民间自辨识的 **[Multi-Markdown](http://fletcherpenney.net/multimarkdown/)** 语法都还没有针对性修正，因此导致了有些 Markdown 编辑器互相之间不能完美识别各自的文件。对此，**[Erato](http://9muses.se/erato/)** 的开发者在其官方页面中声明：支持 [vanilla Markdown](http://daringfireball.net/projects/markdown/syntax)、[GitHub Markdown](https://help.github.com/articles/github-flavored-markdown) & [YAML front matter](http://jekyllrb.com/docs/frontmatter/) 这些语法。
 
-![](http://7q5cfr.com1.z0.glb.clouddn.com/@/Markdown/md4.png
+![](http://7q5cfr.com1.z0.glb.clouddn.com/@/Markdown/md4.png)
 
 与 Mou 相比，[Erato](http://9muses.se/erato/) 的功能远不及前者来得如此丰富，不过正好相反，它是一款完完全全的轻量级 Markdown 编辑器，更加注重简洁和快速，除了基本的功能（例如：实时预览 & 自动滚动）和一些几个漂亮的主题外，在这款软件里找不到任何繁冗复杂的按键。
 
@@ -30,15 +30,15 @@ Markdown 的具体语法大家可以通过[相关声明网站](http://markdown.t
 
 * * *
 
-![](http://7q5cfr.com1.z0.glb.clouddn.com/@/Markdown/md5.png
+![](http://7q5cfr.com1.z0.glb.clouddn.com/@/Markdown/md5.png)
 
 [Byword](http://bywordapp.com/) 是本文三个对象中唯一一款支持全平台（[iOS](https://itunes.apple.com/app/byword/id482063361?mt=8) & Mac）的 Markdown 编辑器，也就是说，通过它可以很方便地实现终端设备间数据的同步，而无需用户手动上传 Cloud 再下载，就这一点，足见开发商的诚意 ![:)](http://www.waerfa.com/wp-content/themes/d9/img/smilies/icon_smile.gif)
 
-![](http://7q5cfr.com1.z0.glb.clouddn.com/@/Markdown/md6.png
+![](http://7q5cfr.com1.z0.glb.clouddn.com/@/Markdown/md6.png)
 
 Byword 拥有的特性也是三款 Markdown 编辑器中最与众不同的：支持原生「简体中文」语言、漂亮的中英文字体（Avenir Next）和黑白纯色主题、恰到好处的排版格式、专注模式（段聚焦和行聚焦）、打字机模式、断词换行等。
 
-![](http://7q5cfr.com1.z0.glb.clouddn.com/@/Markdown/md7.png
+![](http://7q5cfr.com1.z0.glb.clouddn.com/@/Markdown/md7.png)
 
 虽说不支持实时预览，但 Byword 还是支持手动预览的，快捷键为 ⌥ ⌘ P，如果您觉得该按键组合方式操作起来不太习惯，可以使用 [BetterTouchTool](http://www.waerfa.com/36-best-window-management-tools-for-mac-os-x) 进行修改，笔者将其修改为：Trackpad 五指轻拍、组合键 ⇧ ⌘ P。手动预览的好处就是文字输入区永远处于屏幕正中位置，且无需担心预览区的显示位置不同步。
 
