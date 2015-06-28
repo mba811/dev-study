@@ -8,6 +8,7 @@
    * [Python](Languages/python/README.md)
    * [Go](Languages/go/README.md)
      * [Mac 搭建 Go 语言开发环境](Languages/go/g1.md)
+     * [使用 Golang 的 Web 框架 Beego 搭建基于七牛云存储的图床](Languages/go/g2.md)
    * [PHP](Languages/php/README.md)
      * [Github 上的 PHP 资源汇总大全](Languages/php/ph1.md)
    * [JavaScript](Languages/javascript/README.md)
@@ -23,3 +24,4 @@
   * [Ubuntu](Linux/ubuntu/README.md)
 * [Tools](Tools/README.md)
 * [Markdown](Markdown/README.md)
+* [Cloud](Cloud/README.md)
