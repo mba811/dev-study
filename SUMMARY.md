@@ -24,4 +24,8 @@
   * [Ubuntu](Linux/ubuntu/README.md)
 * [Tools](Tools/README.md)
 * [Markdown](Markdown/README.md)
+  * [Markdown 资源整理](Markdown/md1.md)
+  * [Markdown 编辑器浅谈](Markdown/md2.md)
+  * [Markdown+Pandoc→HTML幻灯片速成](Markdown/md3.md)
+  * [Markdown 制作简历](Markdown/md4.md)
 * [Cloud](Cloud/README.md)
