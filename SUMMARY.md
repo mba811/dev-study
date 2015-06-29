@@ -23,6 +23,7 @@
 * [Linux](Linux/README.md)
   * [Ubuntu](Linux/ubuntu/README.md)
 * [Tools](Tools/README.md)
+  * [Vagrant](Tools/Vagrant/README.md)
 * [Markdown](Markdown/README.md)
   * [Markdown 资源整理](Markdown/md1.md)
   * [Markdown 编辑器浅谈](Markdown/md2.md)
