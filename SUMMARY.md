@@ -43,3 +43,4 @@
   * [Markdown+Pandoc→HTML幻灯片速成](md/md3.md)
   * [Markdown 制作简历](md/md4.md)
 * [Cloud](Cloud/README.md)
+  * [各种包管理器使用国内镜像加速下载](Cloud/pm.md)
